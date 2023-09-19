@@ -2,6 +2,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,py,java,js,html,css,r,aws,rails,pytorch,tensorflow,postgres,sqlite,bash,git,github,linux,bootstrap,docker&perline=20)](https://skillicons.dev)
 
+[![Years Badge](https://badges.pufler.dev/years/Mohammad4844)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Mohammad4844)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/Mohammad4844)](https://badges.pufler.dev)
+
+
+
 
 # About Me
 - I am currently an undergraduate student majoring in Computer Science & Mathametics.

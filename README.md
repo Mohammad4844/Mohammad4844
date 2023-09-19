@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Mohamad 👋
 
-# My Skills
+I'm Mohammad.
+
 [![My Skills](https://skillicons.dev/icons?i=ruby,py,java,js,html,css,r,aws,rails,pytorch,tensorflow,postgres,sqlite,bash,git,github,linux,bootstrap,docker&perline=20)](https://skillicons.dev)
 
 
+# About Me
+- I am currently an undergraduate student majoring in Computer Science & Mathametics.
+- My main area of expertise is Machine Learning, specifically **Transformer** models in **Natural Language Processing**. I've built models for various NLP tasks including Named Entity Recognition & Masked Language Modeling. I also have experience in various other areas of machine learning, including:
+  - Reinforcement Learning
+  - Machine Learninf Operations (MLOps)
+  - Audio models
+- Some other areas I work in are:
+  - **Ruby on Rails**: I've been building apps in Rails for over a year now, and I also have internship experience in working with Rails.
+  - Cloud services (**AWS**): I've utililzed a lot of cloud resources in my projects, including AWS services for building out applications (RDS, Lambda, Route 53, EC2 ...), and machine learning services like Amazon Sagemaker and Google Cloud's Vertext AI.
 
 # My Projects
 

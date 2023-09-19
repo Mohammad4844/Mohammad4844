@@ -1,7 +1,5 @@
 ### Hi there, I'm Mohamad 👋
 
-I'm Mohammad.
-
 [![My Skills](https://skillicons.dev/icons?i=ruby,py,java,js,html,css,r,aws,rails,pytorch,tensorflow,postgres,sqlite,bash,git,github,linux,bootstrap,docker&perline=20)](https://skillicons.dev)
 
 

@@ -41,9 +41,9 @@ A transformer model trained on German eBay listing titles for Named Entity Recog
 
 [![My Skills](https://skillicons.dev/icons?i=rails,ruby,js&perline=20)](https://skillicons.dev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad4844&repo=flight-booker&theme=dark)](https://github.com/flight-booker/)
-
 A Flight Booker app made in Ruby on Rails that allows users to search flights based on criteria and book them.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad4844&repo=flight-booker&theme=dark)](https://github.com/flight-booker/)
 
 ## Chess
 

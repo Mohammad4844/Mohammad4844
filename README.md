@@ -11,12 +11,12 @@
 
 # About Me
 - I am currently an undergraduate student majoring in ***Computer Science*** & ***Mathametics***.
-- My main area of expertise is Machine Learning, specifically ***Transformer*** models in ***Natural Language Processing***. An overview of the domains I have experience with:
+- My main area of expertise is ***Machine Learning***, specifically ***Transformer*** models in ***Natural Language Processing***. An overview of the domains I have experience with:
   - Natural Language Processing
   - Reinforcement Learning
   - Machine Learning Operations (MLOps)
   - Audio models
-- Some technolgoies I excel at are:
+- Some other technolgoies/areas I excel at are:
   - ***Ruby on Rails*** for backend development
   - ***AWS*** for cloud services for system design & practical ML
 

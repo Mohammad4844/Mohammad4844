@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad 👋
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,py,java,js,html,css,r,aws,rails,pytorch,tensorflow,postgres,sqlite,bash,git,github,linux,bootstrap,docker&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,py,java,js,html,css,r,aws,gcp,rails,pytorch,tensorflow,postgres,sqlite,bash,git,github,linux,bootstrap,docker&perline=20)](https://skillicons.dev)
 
 [![Years Badge](https://badges.pufler.dev/years/Mohammad4844)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Mohammad4844)](https://badges.pufler.dev)
@@ -36,6 +36,24 @@ An alternate to EMU's course search that allows you look up courses based on ava
 
 Research project that utilizes outside context to improve the performance of source-code Transformer models. Using PyTorch and the Hugging Face Library, architected and trained models on the CodeSearchNet dataset. 
 
+
+## SkillUp 
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,mongodb,rails,postgres,ruby,py&perline=20)](https://skillicons.dev)
+
+A financial micro-learning application built at MHacks 16 with a team of 4. It includes an article recommendation system that uses item-based collaborative filtering, and an article retrieval and processing pipeline that integrates GCP, MongoDB, and GPT.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VarunPTalluri&repo=SkillUp&theme=dark)](
+https://github.com/VarunPTalluri/SkillUp)
+
+## Curricula 
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,rails,postgres,ruby,py&perline=20)](https://skillicons.dev)
+
+A curriculum developer, built with a team of 3 at HackDearborn2, that utilizes Google Cloud’s Generative AI studio that builds personalized curriculums with online free courses.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad4844&repo=curriculum_developer&theme=dark)](
+https://github.com/Mohammad4844/curriculum_developer)
 
 ## WishConnect 
 

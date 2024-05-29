@@ -69,19 +69,3 @@ A communication solution made for the Make-A-Wish Georgia Foundation as part of 
 
 A transformer model trained on German eBay listing titles for Named Entity Recognition. Model pretrained on an MLM task on 10,000,000 examples, and further fine-tuned on a downstream NER task. After conducting hyperparameter search, optimal model achieved 86% F1 score in the final competition ranking.
 
-
-## Flight Booker
-
-[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js&perline=20)](https://skillicons.dev)
-
-A Flight Booker app made in Ruby on Rails that allows users to search flights based on criteria and book them.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad4844&repo=flight-booker&theme=dark)](https://github.com/flight-booker/)
-
-## Chess
-
-[![My Skills](https://skillicons.dev/icons?i=ruby&perline=20)](https://skillicons.dev)
-
-A 2 player command-line Chess game made in Ruby. Built with TDD (Test Dirven Development) usinf RSpec. Imeplements all the rules of game, including checkmate, stalemate, pawn promotion, en-passant, movement restrictions etc.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad4844&repo=Chess&theme=dark)](https://github.com/Mohammad4844/Chess)

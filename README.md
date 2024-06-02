@@ -17,7 +17,15 @@
   - ***AWS*** for cloud services for system design & practical ML
   - ***OpenAI's API*** for ML tools (gpt, whisper)
 
-# My Projects
+# Projects
+
+## RoomReady
+
+[![My Skills](https://skillicons.dev/icons?i=rails,ruby&perline=20)](https://skillicons.dev)
+
+A Rails application for the LSA Sight and Sound team to help streamline the classroom checking process.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lsa-mis&repo=room_ready&theme=dark)](https://github.com/lsa-mis/room_ready)
 
 ## GrizzScribes
 

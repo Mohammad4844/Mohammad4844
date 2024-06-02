@@ -11,16 +11,21 @@
 
 # About Me
 - I am currently an undergraduate student majoring in ***Computer Science*** & ***Mathametics***.
-- My main area of expertise is ***Machine Learning***, specifically ***Transformer*** models in ***Natural Language Processing***. An overview of the domains I have experience with:
-  - Natural Language Processing
-  - Reinforcement Learning
-  - Machine Learning Operations (MLOps)
-  - Audio models
+- My first main area of expertise is building web applications using ***Ruby on Rails***. 
+- My main area of expertise is ***Machine Learning***, specifically ***Transformer*** models in ***Natural Language Processing***.
 - Some other technolgoies/areas I excel at are:
-  - ***Ruby on Rails*** for backend development
   - ***AWS*** for cloud services for system design & practical ML
+  - ***OpenAI's API*** for ML tools (gpt, whisper)
 
 # My Projects
+
+## GrizzScribes
+
+[![My Skills](https://skillicons.dev/icons?i=flask,aws,py,js&perline=20)](https://skillicons.dev)
+
+A tool built at GrizzHacks 6 with a team of 4 that won the AI/Machine Learning track and the award for the best .Tech domain name. GrizzScribes converts lecture material (video lectures, audio recordings, powerpoints) into (1) markdown notes and (2) flashcards. 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ursus-ullamcorper&repo=GrizzScribes&theme=dark)](https://devpost.com/software/grizzscribes)
 
 ## EMU Course Search
 

@@ -19,7 +19,7 @@
 
 # Projects
 
-## RoomReady
+## LSA SpaceReady
 
 [![My Skills](https://skillicons.dev/icons?i=rails,ruby&perline=20)](https://skillicons.dev)
 

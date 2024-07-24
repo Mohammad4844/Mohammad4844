@@ -39,7 +39,7 @@ A tool built at GrizzHacks 6 with a team of 4 that won the AI/Machine Learning t
 
 [![My Skills](https://skillicons.dev/icons?i=aws,rails,postgres,ruby,py,js&perline=20)](https://skillicons.dev)
 
-An alternate to EMU's course search that allows you look up courses based on avaliability schedules. It consists of a full-stack application hosted on AWS, with a PostgreSQL database, a Ruby on Rails backend (api) and a JavaScript frontend. 
+An alternative to EMU's course search that allows you to look up courses based on availability schedules. It consists of a full-stack application hosted on AWS, with a PostgreSQL database, a Ruby on Rails backend (api) and a JavaScript frontend.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad4844&repo=EMU-Course-Search&theme=dark)](https://github.com/Mohammad4844/EMU-Course-Search)
 

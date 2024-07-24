@@ -49,6 +49,10 @@ An alternative to EMU's course search that allows you to look up courses based o
 
 Research project that utilizes outside context to improve the performance of source-code Transformer models. Using PyTorch and the Hugging Face Library, architected and trained models on the CodeSearchNet dataset. 
 
+## TrackMaster 2.0 (Private)
+
+Cohort project built for the Eisenberg Family Depression Center at University of Michigan Medicine. Enhances the current CRM-style application with Sharepoint enhancements, PowerAutomate solutions, and Tableau dashboards.
+
 
 ## SkillUp 
 

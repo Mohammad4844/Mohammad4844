@@ -21,7 +21,7 @@
 
 ## LSA SpaceReady
 
-[![My Skills](https://skillicons.dev/icons?i=rails,ruby&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,bootstrap&perline=20)](https://skillicons.dev)
 
 A Rails application for the LSA Sight and Sound team to help streamline the classroom checking process.
 

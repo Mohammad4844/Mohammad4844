@@ -6,12 +6,16 @@
 
 
 # About Me
-- I am currently an undergraduate student majoring in ***Computer Science*** & ***Mathametics***.
-- My first main area of expertise is building web applications using ***Ruby on Rails***. 
-- My second main area of expertise is ***Machine Learning***, specifically ***Transformer*** models in ***Natural Language Processing***.
-- Some other technolgoies/areas I excel at are:
-  - ***AWS*** for cloud services for system design & practical ML
-  - ***OpenAI's API*** for ML tools (gpt, whisper)
+- I am currently an undergraduate student majoring in ***Computer Science*** & ***Mathametics***
+- My technical experience includes:
+    - ***Software Engineering Intern*** @ Truss
+    - ***Software Developer Intern*** @ University of Michigan
+    - ***Deep Learning Research Assistant*** @ Eastern Michigan University
+    - ***IT Intern*** @ Compass Group
+- My main areas of expertise are:
+    - Building web applications using ***Ruby on Rails***
+    - ***Machine Learning***, specifically ***Transformer*** models in ***Natural Language Processing***
+    - ***AWS*** for cloud services for system design & practical ML
  
 # Skills
 
